@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Sejun Ahn"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "nothing"
-  location         : "GIST"
+  bio              : "Graduate Student in School of Mechanical Engineering at GIST"
+  location         : "Gwangju, Korea"
   email            : "ahnsejun@gm.gist.ac.kr"
   links:
     - label: "Email"
