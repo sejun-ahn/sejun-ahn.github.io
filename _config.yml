@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sejun Ahn"
   avatar           : "/assets/noname.png"
-  bio              : "I am a graduate student in School of Mechanical Engineering at GIST. <br>My research interests lie in Machine Learning ,Robotics and Sensor Fusion, with particular focus on utilizing IMU data."
+  bio              : "I am a graduate student in School of Mechanical Engineering at GIST. <br><br>My research interests lie in Machine Learning ,Robotics and Sensor Fusion, with particular focus on utilizing IMU data.<br><br>I obtained Bachelor of Science in Electronic Engineering from Chonnam National University."
   location         : "Gwangju, Korea"
   email            : "ahnsejun@gm.gist.ac.kr"
   links:
