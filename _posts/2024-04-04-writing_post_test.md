@@ -1,12 +1,2 @@
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+this is a post for test<br><br>
+테스트용 포스트입니다
