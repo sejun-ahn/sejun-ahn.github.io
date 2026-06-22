@@ -1,0 +1,16 @@
+[
+  {
+    "id": "publication-1",
+    "title": "Equivariant Neural Inertial Odometry for Microgravity Space Robotics",
+    "authors": ["Sejun Ahn", "Yuheng Qiu", "Chanhee Park", "Brian Coltin", "Ryan Soussan", "Pyojin Kim*"],
+    "date": "2025-06-05",
+    "venue": "ICRA 2026 Workshop on Intelligent Space Robotics and Systems",
+    "venue_type": "workshop",
+    "project_page": null,
+    "code": null,
+    "pdf": "https://openreview.net/pdf?id=pzm381jrHF",
+    "video": "https://youtu.be/bWdduaIVkrQ?si=M5xUPdBlMi_Bdqlj",
+    "poster": null,
+    "thumbnail": "imgs/publications/1.png"
+  }
+]
