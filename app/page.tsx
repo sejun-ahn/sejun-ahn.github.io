@@ -28,7 +28,7 @@ export default function Home() {
           {/* 프로필 사진: 오른쪽 배치 */}
           <div className="flex-shrink-0 w-full md:w-auto flex justify-center md:justify-end">
             <Image
-              src="imgs/sejunahn.jpg" // public 폴더에 본인 사진을 넣으세요
+              src="/imgs/sejunahn.jpg" // public 폴더에 본인 사진을 넣으세요
               alt="Sejun Ahn"
               width={150}
               height={200}
